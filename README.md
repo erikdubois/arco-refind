@@ -1,7 +1,9 @@
 ![](screenshot.png)
 
 A clean theme for the [rEFInd UEFI Boot Manager](http://www.rodsbooks.com/refind/)
-based on the Ursa Major colorscheme.
+based on the Ursa Major colorscheme and so many others.
+
+IT IS A MIX.
 
 Icons are included for a variety of Linux distributions, as well as macOS and 
 Windows.
